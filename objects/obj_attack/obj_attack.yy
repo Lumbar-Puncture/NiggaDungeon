@@ -9,8 +9,8 @@
   "name":"obj_attack",
   "overriddenProperties":[],
   "parent":{
-    "name":"SimpleDungeon",
-    "path":"SimpleDungeon.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

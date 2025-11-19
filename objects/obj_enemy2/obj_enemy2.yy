@@ -6,8 +6,8 @@
   "name":"obj_enemy2",
   "overriddenProperties":[],
   "parent":{
-    "name":"SimpleDungeon",
-    "path":"SimpleDungeon.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_enemy_parent",
