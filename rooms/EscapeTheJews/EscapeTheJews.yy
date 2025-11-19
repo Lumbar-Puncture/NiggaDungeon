@@ -129,8 +129,8 @@
   ],
   "name":"EscapeTheJews",
   "parent":{
-    "name":"Room",
-    "path":"folders/Room.yy",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
