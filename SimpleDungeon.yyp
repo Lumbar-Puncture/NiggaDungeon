@@ -43,6 +43,8 @@
     {"id":{"name":"spr_hitler_idle_left","path":"sprites/spr_hitler_idle_left/spr_hitler_idle_left.yy",},},
     {"id":{"name":"spr_hitler_walk_down","path":"sprites/spr_hitler_walk_down/spr_hitler_walk_down.yy",},},
     {"id":{"name":"spr_hitler_walk_left","path":"sprites/spr_hitler_walk_left/spr_hitler_walk_left.yy",},},
+    {"id":{"name":"spr_hitler_walk_right","path":"sprites/spr_hitler_walk_right/spr_hitler_walk_right.yy",},},
+    {"id":{"name":"spr_hitler_walk_up","path":"sprites/spr_hitler_walk_up/spr_hitler_walk_up.yy",},},
     {"id":{"name":"spr_lava","path":"sprites/spr_lava/spr_lava.yy",},},
     {"id":{"name":"spr_npc1","path":"sprites/spr_npc1/spr_npc1.yy",},},
     {"id":{"name":"spr_player_idle_down","path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},},
