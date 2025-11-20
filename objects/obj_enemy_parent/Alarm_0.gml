@@ -1,7 +1,7 @@
-if (instance_exists(obj_player) && distance_to_object(obj_player) < distance_to_player)
+if (instance_exists(Hitler) && distance_to_object(Hitler) < distance_to_player)
 {
-    target_x = obj_player.x;
-    target_y = obj_player.y;
+    target_x = Hitler.x;
+    target_y = Hitler.y;
 }
 else
 {

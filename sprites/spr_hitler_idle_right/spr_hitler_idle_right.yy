@@ -45,8 +45,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"Hitler Sprites",
-    "path":"folders/Hitler Sprites.yy",
+    "name":"hitler",
+    "path":"folders/Sprites/hitler.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
